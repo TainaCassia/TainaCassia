@@ -14,12 +14,12 @@ Concluí o ensino médio em 2023 e estou sempre em busca de novos conhecimentos 
 
 ## 💻 Estudos Atuais na ETEC
 
-Na ETEC Antônio Furlan, estou aprofundando meus conhecimentos nas seguintes áreas:
+Nas redes de ensino, estou aprofundando meus conhecimentos nas seguintes áreas:
 
 * **Banco de Dados:** Aprendendo sobre modelagem, SQL e gerenciamento de dados.
 * **Redes de Computadores:** Explorando arquiteturas de rede, protocolos e segurança.
 * **Segurança da Informação:** Estudando os princípios e práticas para proteger sistemas e dados.
-* **Linguagem Web:** Já tenho experiência com HTML, CSS e JavaScript para o desenvolvimento frontend.
+* **Linguagem Web:** Tenho experiência com HTML, CSS e JavaScript para desenvolvimento frontend e estou aprendendo backend com PHP.
 
 ## 🐍 Aprendizado Próprio
 
@@ -30,8 +30,8 @@ Atualmente estou dedicando tempo para aprender a linguagem de programação **Py
 Aqui estão as tecnologias e habilidades que estou desenvolvendo:
 
 * **Linguagens de Programação:** Python, JavaScript, HTML, CSS, SQL
-* **Em Aprendizado:** [Mencione frameworks/bibliotecas de Python que você está estudando, como Flask, Django, etc.]
-* **Ferramentas:** Git, GitHub, VS Code.
+* **Em Aprendizado:** Curso do Gustao Guanabara (Python), PHP Back-end.
+* **Ferramentas:** Git, GitHub, VS Code, Pycharm.
 * **Conceitos:** Lógica de Programação, Desenvolvimento Web (Frontend), Banco de Dados, Redes, Segurança da Informação
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -44,16 +44,17 @@ Aqui estão as tecnologias e habilidades que estou desenvolvendo:
 
 ## 🚀 Projetos em Destaque
 
-Confira alguns dos meus projetos:
+Confira alguns dos meus projetos: (Irei Atualizar em breve)
 
-* [Nome do Projeto 1]([Link do Repositório 1]): [Breve descrição do projeto, mencionando as tecnologias usadas. Ex: "Um projeto web frontend utilizando HTML, CSS e JavaScript para criar um portfólio pessoal básico."]
-* [Nome do Projeto 2]([Link do Repositório 2]): [Outra breve descrição. Ex: "Um script simples em Python para automatizar a leitura de arquivos e gerar um relatório."]
+* [Nome do Projeto 1]([Link do Repositório 1]): [Breve descrição do projeto.]
+* [Nome do Projeto 2]([Link do Repositório 2]): [Outra breve descrição. ]
 * [Outros Projetos]([Links para outros projetos, se houver])
 
 ## 🔗 Conecte-se Comigo
 
-* [Seu LinkedIn]([Link para o seu perfil do LinkedIn])
-* [Seu E-mail](mailto:cassiataina50@gmail.com)
+* LinkedIn (https://www.linkedin.com/in/tain%C3%A1-c%C3%A1ssia-4087bb352/)
+* Email (mailto:cassiataina50@gmail.com)
+* Instagram (https://www.instagram.com/taina.cassia/)
 
 ## 🌱 Atualmente Aprendendo
 
