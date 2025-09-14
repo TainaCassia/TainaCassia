@@ -19,7 +19,7 @@ Nas redes de ensino, estou aprofundando meus conhecimentos nas seguintes áreas:
 * **Banco de Dados:** Aprendendo sobre modelagem, SQL e gerenciamento de dados.
 * **Redes de Computadores:** Explorando arquiteturas de rede, protocolos e segurança.
 * **Segurança da Informação:** Estudando os princípios e práticas para proteger sistemas e dados.
-* **Linguagem Web:** Tenho experiência com HTML, CSS e JavaScript para desenvolvimento frontend e estou aprendendo backend com PHP.
+* **Linguagem Web:** Tenho experiência com HTML, CSS e JavaScript para desenvolvimento frontend e estou aprendendo backend com PHP e Java.
 
 ## 🐍 Aprendizado Próprio
 
@@ -29,9 +29,9 @@ Atualmente estou dedicando tempo para aprender a linguagem de programação **Py
 
 Aqui estão as tecnologias e habilidades que estou desenvolvendo:
 
-* **Linguagens de Programação:** Python, JavaScript, HTML, CSS, SQL
-* **Em Aprendizado:** Curso do Gustao Guanabara (Python), PHP Back-end.
-* **Ferramentas:** Git, GitHub, VS Code, Pycharm.
+* **Linguagens de Programação:** Python, PHP, JavaScript, HTML, CSS, SQL
+* **Em Aprendizado:** Curso do Gustao Guanabara (Python), PHP Back-end, Java Back-end.
+* **Ferramentas:** Git, GitHub, VS Code, Pycharm, NetBeans.
 * **Conceitos:** Lógica de Programação, Desenvolvimento Web (Frontend), Banco de Dados, Redes, Segurança da Informação
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -50,7 +50,7 @@ Aqui estão as tecnologias e habilidades que estou desenvolvendo:
 
 Confira alguns dos meus projetos: (Irei Atualizar em breve)
 
-* [Nome do Projeto 1]([Link do Repositório 1]): [Breve descrição do projeto.]
+* [Portfólio]([https://tainacassia.github.io/]): [Aqui está ma parte do meu aprendizado e minhas redes de contato.]
 * [Nome do Projeto 2]([Link do Repositório 2]): [Outra breve descrição. ]
 * [Outros Projetos]([Links para outros projetos, se houver])
 
