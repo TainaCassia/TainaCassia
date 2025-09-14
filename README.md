@@ -50,7 +50,7 @@ Aqui estão as tecnologias e habilidades que estou desenvolvendo:
 
 Confira alguns dos meus projetos: (Irei Atualizar em breve)
 
-* [Portfólio]([https://tainacassia.github.io/]): [Aqui está ma parte do meu aprendizado e minhas redes de contato.]
+* [Portfólio](https://tainacassia.github.io/): [Aqui está ma parte do meu aprendizado e minhas redes de contato.]
 * [Nome do Projeto 2]([Link do Repositório 2]): [Outra breve descrição. ]
 * [Outros Projetos]([Links para outros projetos, se houver])
 
