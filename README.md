@@ -51,8 +51,9 @@ Aqui estão as tecnologias e habilidades que estou desenvolvendo:
 Confira alguns dos meus projetos: (Irei Atualizar em breve)
 
 * [Portfólio](https://tainacassia.github.io/): [Aqui está ma parte do meu aprendizado e minhas redes de contato.]
-* [Nome do Projeto 2]([Link do Repositório 2]): [Outra breve descrição. ]
-* [Outros Projetos]([Links para outros projetos, se houver])
+* [Blog Filmes](https://tainacassia.github.io/blog-pessoal/): [Meu primeiro site desenvolvido.]
+* [Landing Page Roku](https://tainacassia.github.io/landingpageroku/): [Inspiração do site oficial da Roku. ]
+
 
 ## 🔗 Conecte-se Comigo
 
@@ -70,5 +71,6 @@ Meus objetivos futuros incluem aplicar meus conhecimentos em projetos desafiador
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[seu_usuario_github]&show_icons=true&theme=dracula)](https://github.com/[seu_usuario_github])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[seu_usuario_github]&layout=compact&theme=dracula)](https://github.com/[seu_usuario_github])
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TainaCassia&show_icons=true&theme=dark)](https://github.com/TainaCassia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TainaCassia&layout=compact&theme=dark)](https://github.com/TainaCassia)
